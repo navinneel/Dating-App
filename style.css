@@ -4,5 +4,6 @@ body{
     background-color: grey;
 }
 .lists{
-    text-align: center;
+    text-align:center;
+    list-style-position: inside;
 }
